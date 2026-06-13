@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jonas Nicolao!
 
-<!--
-**jonasnicolao-tech/jonasnicolao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+</div>
 
-Here are some ideas to get you started:
+## 🛠️ Especialidades e Foco Técnico
+- 🐧 **Linux Infrastructure:** Administração de servidores, automação e gerenciamento de sistemas.
+- ⚡ **Bitcoin Node:** Configuração, segurança e manutenção de nós da rede Bitcoin.
+- 🔒 **Server Hardening:** Aplicação de boas práticas de segurança e proteção de infraestrutura digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos Principais
+- 💻 [bitcoin-node-setup](https://github.com) - Guia de implantação e configuração segura de nós Bitcoin.
+- 🛡️ [linux-server-hardening](https://github.com) - Scripts e políticas para proteção de servidores Linux.
+- 📦 [vps-deployment-kit](https://github.com) - Automações para provisionamento rápido de VPS.
+
+---
+*Perfil monitorado e atualizado automaticamente via GitHub Stats.*
+
